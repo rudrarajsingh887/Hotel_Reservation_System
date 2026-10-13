@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hotel Reservation Management System" width="100%"/>
+<img src="assests/header.svg" alt="Hotel Reservation Management System" width="100%"/>
 
 <br/>
 
@@ -51,7 +51,7 @@ It's a practical example of **CRUD operations**, **JDBC connectivity** and **dat
 ## 🎬 Live Demo
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Animated terminal demo" width="80%"/>
+  <img src="assests/terminal.svg" alt="Animated terminal demo" width="80%"/>
 </div>
 
 ---
@@ -170,7 +170,7 @@ java -cp ".;mysql-connector-j-8.x.x.jar" HotelReservation
 Hotel_Reservation_System/
 ├── 📄 HotelReservation.java   # Menu + CRUD logic
 ├── 📄 README.md
-└── 🎨 assets/                 # Animated README graphics
+└── 🎨 assests/                 # Animated README graphics
     ├── header.svg
     ├── terminal.svg
     └── footer.svg
@@ -216,6 +216,6 @@ Made by [@rudrarajsingh887](https://github.com/rudrarajsingh887)
 
 <br/>
 
-<img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+<img src="assests/footer.svg" alt="Thanks for visiting" width="100%"/>
 
 </div>
