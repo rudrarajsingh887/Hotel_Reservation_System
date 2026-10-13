@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Hotel Reservation Management System" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNjA5MDc3ZC1iODlhLTQ4OWQtODdlYi1jYWQzOWJhYmRiMWEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHuoWCTv9MrDq3WYQsUartgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiZjM5NzNmMy01OGI4LTRjMDEtYjIyOC1jZWRjMmU5ZDRlYzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJWq7N5W0Oc90ekIqvispBQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkkE5gSx3ip0rNL+nrusUszGYRejfm3qCZaQYI/J8b0OkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPpTE60C51OYM4qcnt5XQxQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBEtoWeL5bJKj3yR/DU+xhzjXw0thntmfXPVgcDJLX4tWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjUZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ2MDkwNzdkLWI4OWEtNDg5ZC04N2ViLWNhZDM5YmFiZGIxYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ0ZDAyMTRiLWM5YWMtNDI1MS04YzBjLTNjMTFmNjE2ZDRhYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCSQTmBLHeKnSs0v6eu6xSzMZhF6N+beoJlpBgj8nxvQ6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg4J1MOifQA7J6BLTm2s8weUXAsvgpmFmlxLJ8O/9GOziiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggDY4BAzdE2VbreYtLAIN4ZxMHO7Pd6Lr1pOBa3qiXtyJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFT4TSLNzrCIIbvONqlwnhJHoXur6vyjg11JiBXTrFPYLD1LOluh8O9mEjpaC1t8woJJDItL3vDwxAvQvWwbdgQ=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#0f2342">
+        <animate attributeName="stop-color" values="#0f2342;#1b1450;#0f2342" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00d4ff"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1f6feb" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round"><rect width="1000" height="280" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)"/>
+
+    <!-- floating orbs -->
+    <circle cx="880" cy="70" r="46" fill="#8b5cf6" opacity="0.18">
+      <animate attributeName="cy" values="70;100;70" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="200" r="28" fill="#00d4ff" opacity="0.16">
+      <animate attributeName="cy" values="200;170;200" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="190" r="14" fill="#00d4ff" opacity="0.3">
+      <animate attributeName="cx" values="940;900;940" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="40" r="6" fill="#ffffff" opacity="0.5">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="60" r="4" fill="#00d4ff" opacity="0.5">
+      <animate attributeName="opacity" values="0.7;0.1;0.7" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- hotel building -->
+    <g transform="translate(95,38)">
+      <rect x="-10" y="182" width="120" height="4" rx="2" fill="#00d4ff" opacity="0.5"/>
+      <rect x="0" y="22" width="100" height="162" rx="6" fill="#11213a" stroke="#00d4ff" stroke-opacity="0.7" stroke-width="2"/>
+      <rect x="28" y="0" width="44" height="24" rx="5" fill="#0d1117" stroke="#8b5cf6" stroke-width="2"/>
+      <text x="50" y="18" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#8b5cf6">H</text>
+
+      <rect x="14" y="40" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.1s" repeatCount="indefinite"/></rect>
+      <rect x="40" y="40" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="1;0.25;1" dur="4.3s" repeatCount="indefinite"/></rect>
+      <rect x="66" y="40" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="0.25;1;0.25" dur="5.2s" repeatCount="indefinite"/></rect>
+
+      <rect x="14" y="70" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="1;0.25;1" dur="3.7s" repeatCount="indefinite"/></rect>
+      <rect x="40" y="70" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="0.25;1;0.25" dur="4.9s" repeatCount="indefinite"/></rect>
+      <rect x="66" y="70" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="1;0.25;1" dur="3.3s" repeatCount="indefinite"/></rect>
+
+      <rect x="14" y="100" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="0.25;1;0.25" dur="5.8s" repeatCount="indefinite"/></rect>
+      <rect x="40" y="100" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="1;0.25;1" dur="2.9s" repeatCount="indefinite"/></rect>
+      <rect x="66" y="100" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="0.25;1;0.25" dur="4.1s" repeatCount="indefinite"/></rect>
+
+      <rect x="14" y="130" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="1;0.25;1" dur="4.6s" repeatCount="indefinite"/></rect>
+      <rect x="40" y="130" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.4s" repeatCount="indefinite"/></rect>
+      <rect x="66" y="130" width="20" height="18" rx="3" fill="#ffd166"><animate attributeName="opacity" values="1;0.25;1" dur="5.5s" repeatCount="indefinite"/></rect>
+
+      <rect x="38" y="154" width="24" height="30" rx="3" fill="#0d1117" stroke="#00d4ff" stroke-width="1.5"/>
+    </g>
+
+    <!-- title -->
+    <text x="250" y="118" font-family="'Segoe UI',Arial,sans-serif" font-size="58" font-weight="800" fill="url(#title)" opacity="0">
+      Hotel Reservation
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+      <animate attributeName="x" from="220" to="250" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- cycling taglines -->
+    <g font-family="'Courier New',monospace" font-size="21" fill="#9fb3c8" letter-spacing="1">
+      <text x="252" y="158" opacity="0">&gt; Management System
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.21;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/></text>
+      <text x="252" y="158" opacity="0">&gt; Reserve rooms in seconds
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.21;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+      <text x="252" y="158" opacity="0">&gt; Full CRUD with JDBC + MySQL
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.21;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/></text>
+      <text x="252" y="158" opacity="0">&gt; Simple. Fast. Console-based.
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.21;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- scanning line -->
+    <rect x="250" y="172" width="160" height="3" rx="1.5" fill="url(#scan)">
+      <animate attributeName="x" values="250;640;250" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- tech chips -->
+    <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+      <rect x="250" y="192" width="72" height="28" rx="14" fill="#ED8B00" fill-opacity="0.15" stroke="#ED8B00"/>
+      <text x="286" y="211" fill="#ffb347">JAVA</text>
+      <rect x="332" y="192" width="72" height="28" rx="14" fill="#8b5cf6" fill-opacity="0.15" stroke="#8b5cf6"/>
+      <text x="368" y="211" fill="#b79cff">JDBC</text>
+      <rect x="414" y="192" width="84" height="28" rx="14" fill="#4479A1" fill-opacity="0.2" stroke="#4aa3d8"/>
+      <text x="456" y="211" fill="#7cc4ee">MYSQL</text>
+      <rect x="508" y="192" width="72" height="28" rx="14" fill="#2ea043" fill-opacity="0.15" stroke="#2ea043"/>
+      <text x="544" y="211" fill="#56d364">CLI</text>
+    </g>
+
+    <!-- animated waves -->
+    <path fill="#00d4ff" fill-opacity="0.12" d="M0 245 C 200 215, 300 275, 500 245 S 800 215, 1000 245 V280 H0 Z">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0 245 C 200 215, 300 275, 500 245 S 800 215, 1000 245 V280 H0 Z;
+                M0 245 C 200 275, 300 215, 500 245 S 800 275, 1000 245 V280 H0 Z;
+                M0 245 C 200 215, 300 275, 500 245 S 800 215, 1000 245 V280 H0 Z"/>
+    </path>
+    <path fill="#8b5cf6" fill-opacity="0.18" d="M0 260 C 250 235, 350 285, 550 260 S 850 235, 1000 260 V280 H0 Z">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="M0 260 C 250 235, 350 285, 550 260 S 850 235, 1000 260 V280 H0 Z;
+                M0 260 C 250 285, 350 235, 550 260 S 850 285, 1000 260 V280 H0 Z;
+                M0 260 C 250 235, 350 285, 550 260 S 850 235, 1000 260 V280 H0 Z"/>
+    </path>
+  </g>
+  <rect x="1" y="1" width="998" height="278" rx="18" fill="none" stroke="#00d4ff" stroke-opacity="0.35" stroke-width="2"/>
+</svg>
